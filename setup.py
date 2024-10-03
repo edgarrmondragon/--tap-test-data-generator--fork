@@ -35,7 +35,7 @@ setup(
         "requests",
         "jsonschema==2.6.0",
         "Faker==15.3.4",
-        "exrex==0.10.5",
+        "exrex==0.11.0",
         "ijson==3.1.4",
         "allpairspy==2.5.0"
     ],
